@@ -1,3 +1,0 @@
-INSERT INTO product (name, brand, price, imageUrl, ikeaProductId) VALUES ('KURA 쿠라', 'IKEA', 259000, 'https://www.ikea.com/kr/ko/images/products/kura-reversible-bed-white-pine__0651475_pe706990_s5.jpg?f=xl', '60265147');
-INSERT INTO product (name, brand, price, imageUrl, ikeaProductId) VALUES ('MALM 말름', 'IKEA', 399000, 'https://www.ikea.com/kr/ko/images/products/malm-bed-frame-high-black-brown__0637598_pe698424_s5.jpg?f=xl', '20249219');
-INSERT INTO product (name, brand, price, imageUrl, ikeaProductId) VALUES ('PAX/KOMPLEMENT', 'IKEA', 1050000, 'https://www.ikea.com/kr/ko/images/products/pax-komplement-wardrobe-combination-white-mehamn-white__1021448_pe832103_s5.jpg?f=xl', 'S99330953');
